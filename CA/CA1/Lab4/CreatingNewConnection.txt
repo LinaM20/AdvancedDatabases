@@ -1,0 +1,6 @@
+create role "ADVDB" with login password 'ADVDB2';
+create schema "ADVDB" authorization "ADVDB";
+
+
+USERNAME: ADVDB
+PASSWORD: ADVBD2
